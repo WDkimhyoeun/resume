@@ -1,4 +1,5 @@
 ## 소개
+![image](https://user-images.githubusercontent.com/66587298/96572729-28cb2480-1308-11eb-9785-2ae135bd1054.png)
 * 김효은
 * Email: khyoeun92@gmail.com
 * Github: https://github.com/WDkimhyoeun
