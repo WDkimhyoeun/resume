@@ -7,7 +7,7 @@
 ## 프로젝트
 #### 공차(팀 프로젝트)
 * HTML5, CSS3, JavaScript, JSP, MSSQL, Bootstrap4
-* 구동 예시
+* GitHub Pages 대신 PPT로 설명 대체
 * Github: https://github.com/WDkimhyoeun/goncha
 #### 반응형 웹 만들기(개인 프로젝트)
 * HTML5, CSS3, JavaScript
